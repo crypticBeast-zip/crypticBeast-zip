@@ -12,7 +12,9 @@
 ![Verilog HDL](https://img.shields.io/badge/Verilog%20HDL-blue?style=for-the-badge&logo=verilog&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-gray?style=for-the-badge&logo=fpga&logoColor=white)
 
-<!-- Embedded C & MCUs -->
+<!-- Programming Languages, Embedded C & MCUs -->
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 
@@ -21,11 +23,9 @@
 ![Quartus](https://img.shields.io/badge/Quartus-II-blue?style=for-the-badge&logo=intel&logoColor=white)
 ![ModelSim](https://img.shields.io/badge/ModelSim-EDA-118fdd?style=for-the-badge)
 ![Keil](https://img.shields.io/badge/Keil-uVision-blue?style=for-the-badge)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logoColor=white)
 
-<!-- Scripting & Verification -->
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Cocotb](https://img.shields.io/badge/Cocotb-VHDL%2FVerilog%20Testbench-darkgreen?style=for-the-badge&logo=python&logoColor=white)
 
 <!-- Version Control -->
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)

@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on RISC-V CPU implementation on FPGA<br>🌱 Currently learning Advanced VHDL Testbenching and AXI Protocols<br>💬 Ask me about Verilog, VHDL, Embedded C, Vivado<br>🧠 Interested in building efficient digital systems and real-time embedded applications<br>📫 Reach me at pranavduse.official@gmail.com
+# About Me:
+🔭 I’m currently working on RISC-V CPU implementation on FPGA<br>🌱 Currently learning Advanced VHDL Testbenching <br>💬 Ask me about Verilog, VHDL, Embedded C, Vivado<br>🧠 Interested in building efficient digital systems and real-time embedded applications<br>📫 Reach me at dusepranav@gmail.com
 
 
 ## 🌐 Socials:

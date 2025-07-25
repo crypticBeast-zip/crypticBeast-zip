@@ -8,32 +8,29 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dusepranav@gmail.com) 
 
 # 💻 Languages & Tools:
-<p align="center">
-
 <!-- HDL -->
-<img src="https://img.icons8.com/color/48/chip.png" alt="Verilog" width="40"/>
-<img src="https://img.icons8.com/ios/50/000000/fpga.png" alt="VHDL" width="40"/>
+![Verilog HDL](https://img.shields.io/badge/Verilog%20HDL-blue?style=for-the-badge&logo=verilog&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-gray?style=for-the-badge&logo=fpga&logoColor=white)
 
 <!-- Embedded C & MCUs -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-<img src="https://img.icons8.com/ios/50/000000/stm32.png" alt="STM32" width="40"/>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 
 <!-- IDEs & Tools -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Vivado_Design_Suite_Logo.png" alt="Vivado" width="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Quartus_II_Logo.png" alt="Quartus" width="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/ModelSim_Logo.svg" alt="ModelSim" width="60"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Keil_logo.png" alt="Keil" width="40"/>
-<img src="https://img.icons8.com/ios/50/raspberry-pi.png" alt="Raspberry Pi" width="40"/>
+![Vivado](https://img.shields.io/badge/Vivado-Design%20Suite-yellow?style=for-the-badge&logo=xilinx&logoColor=white)
+![Quartus](https://img.shields.io/badge/Quartus-II-blue?style=for-the-badge&logo=intel&logoColor=white)
+![ModelSim](https://img.shields.io/badge/ModelSim-EDA-118fdd?style=for-the-badge)
+![Keil](https://img.shields.io/badge/Keil-uVision-blue?style=for-the-badge)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 <!-- Scripting & Verification -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/>
-<img src="https://img.shields.io/badge/cocotb-UnitTest-darkgreen?style=flat&logo=python&logoColor=white" alt="Cocotb"/>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Cocotb](https://img.shields.io/badge/Cocotb-VHDL%2FVerilog%20Testbench-darkgreen?style=for-the-badge&logo=python&logoColor=white)
 
 <!-- Version Control -->
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-</p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=crypticbeast-zip&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>

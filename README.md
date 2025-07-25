@@ -18,21 +18,23 @@
   <!-- HDL -->
   <img src="https://img.shields.io/badge/Verilog%20HDL-blue?style=for-the-badge&logo=verilog&logoColor=white" />
   <img src="https://img.shields.io/badge/VHDL-gray?style=for-the-badge&logo=fpga&logoColor=white" />
-
+  </div>
+<div align="center">
   <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
-
+  </div>
+<div align="center">
   <!-- IDEs & Tools -->
   <img src="https://img.shields.io/badge/Vivado-Design%20Suite-yellow?style=for-the-badge&logo=xilinx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Quartus-II-blue?style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/ModelSim-EDA-118fdd?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Keil-uVision-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logoColor=white" />
-
+  </div>
+<div align="center">
   <!-- Version Control -->
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />

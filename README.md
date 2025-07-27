@@ -29,7 +29,7 @@
 <div align="center">
   <!-- IDEs & Tools -->
   <img src="https://img.shields.io/badge/Vivado_Design%20Suite-yellow?style=for-the-badge&logo=xilinx&logoColor=white" />
-  <img src="https://img.shields.io/badge/ModelSim-EDA-118fdd?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ModelSim-EDA_Playground-118fdd?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Keil_uVision-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logoColor=white" />
